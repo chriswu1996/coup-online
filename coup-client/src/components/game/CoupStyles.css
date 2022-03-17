@@ -201,7 +201,7 @@
 }
 .EventLogBody {
     overflow-y: scroll;
-    height: 9VH;
+    height: 30VH;
     padding-right: 3px;
 }
 .EventLogTitle {
